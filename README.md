@@ -1,5 +1,6 @@
 # Asset-Scanner
 Scans workshop mods, flags mods that override base game assets as Dirty
+![Dashboard](https://github.com/sibercat/Asset-Scanner/blob/main/preview.png)
 
 .NET 10 Desktop Runtime is required to run this tool.
 
